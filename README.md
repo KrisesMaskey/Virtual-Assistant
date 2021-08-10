@@ -1,7 +1,9 @@
 # Virtual-Assistant
+
 Project Title: Giddian (Virtual Assistant)
-Description: A virtual assistant with text and speech recognition capability. Uses Wolframalpha and Wikipedia library to facilitate answers.
 --------x--------x-------x--------x-------x--------x-------x
+
+Description: A virtual assistant with text and speech recognition capability. Uses Wolframalpha and Wikipedia library to facilitate answers.
 
 Prerequisites (Dependencies):
 1. Pyttsx3 (Text to speech) Library
@@ -23,7 +25,7 @@ Contributing:
 
 License: MIT License
 
-Citation: Maskey,K(2011) Giddian(Virtual Assistant) source code (Version 1.0) [Source code]. http://(github link) !!-----x-x-----!!
+Citation: Maskey,K(2011) Giddian(Virtual Assistant) source code (Version 1.0). 
 --------x--------x-------x--------x-------x--------x-------x--------x--------x-------x--------x-------x--------x-------x
 
 	
