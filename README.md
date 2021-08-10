@@ -1,4 +1,5 @@
 # Virtual-Assistant
+A virtual assistant with text and speech recognition capability. Utilizes Wolframalpha and Wikipedia library.
 
 Project Title: Giddian (Virtual Assistant)
 
